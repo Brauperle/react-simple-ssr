@@ -1,0 +1,4 @@
+- [x] barebone server-side rendering
+- [] support for multiple pages/routes (server side)
+- [] support for suspense (suspensified data fetching/startTransition?)
+- [] clean-up/publish?
